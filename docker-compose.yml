@@ -39,6 +39,8 @@ services:
       - QR_CODE_DIR=./qr_codes
       - FILL_COLOR=red
       - BACK_COLOR=white
+    ports:
+      - "8000:8000"
     depends_on:
       postgres:
         condition: service_healthy
