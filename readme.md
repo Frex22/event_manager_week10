@@ -43,12 +43,12 @@
 
 | PR# | Description | Status |
 |-----|-------------|--------|
-| #2 | Mismatched data in login and register | ✅ Merged | 
-| #4 | Username Validation | ✅ Merged | 
-| #6 | ProfilePic Validation | ✅ Merged | 
-| #8 | username normalisation | ✅ Merged |
-| #10 |email normalisation | ✅ Merged |
-| #11 |password encryption | ✅ Merged | 
+| [#2](https://github.com/Frex22/event_manager_week10/pull/2) | Mismatched data in login and register | ✅ Merged | 
+| [#4](https://github.com/Frex22/event_manager_week10/issues/3) | Username Validation | ✅ Merged | 
+| [#6](https://github.com/Frex22/event_manager_week10/issues/5) | ProfilePic Validation | ✅ Merged | 
+| [#8](https://github.com/Frex22/event_manager_week10/issues/7) | username normalisation | ✅ Merged |
+| [#10](https://github.com/Frex22/event_manager_week10/issues/9) |email normalisation | ✅ Merged |
+| [#11](https://github.com/Frex22/event_manager_week10/issues/11) |password encryption | ✅ Merged | 
 
 
 # Learnings
